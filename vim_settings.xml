@@ -1,0 +1,42 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/java_test/build.gradle" timestamp="1479022546821">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="14" />
+        <mark key="^" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBhYiB7fQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
