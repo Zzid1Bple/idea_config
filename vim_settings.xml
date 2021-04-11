@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1479092232675">
+      <file name="/Dummy.txt" timestamp="1479097136951">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/java_test/settings.gradle" timestamp="1479085911651">
@@ -11,6 +11,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ab8ba384-7111-4daa-8969-95219156e9af/console_1.sql" timestamp="1479097027110">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/java_test/build.gradle" timestamp="1479085591356">
         <mark key="[" line="14" column="0" />
