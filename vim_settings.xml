@@ -12,6 +12,12 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/63abaa36-7edc-4297-a7cd-1dc9633eca9e/console_1.sql" timestamp="1479101371692">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="37" />
+        <mark key="^" line="1" column="37" />
+        <mark key="." line="1" column="37" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ab8ba384-7111-4daa-8969-95219156e9af/console_1.sql" timestamp="1479097027110">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
@@ -29,7 +35,7 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="/dummy.sql" timestamp="1479092473391">
+      <file name="/dummy.sql" timestamp="1479101506955">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -38,8 +44,8 @@
       <register name="1" type="2">
         <text encoding="base64">Y2wK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2wK</text>
+      <register name="&quot;" type="4">
+        <text>sn</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CmNsYXNzIGFiIHsKICAgIHB1YmxpYyBhYigpIHsKICAgICAgICBpbnQgYSA9IDA7CiAgICB9Cn0K</text>
@@ -55,6 +61,9 @@
       </register>
       <register name=":" type="4">
         <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>sn</text>
       </register>
     </registers>
     <search>
