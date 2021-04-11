@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1479089582472">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/java_test/settings.gradle" timestamp="1479085911651">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
